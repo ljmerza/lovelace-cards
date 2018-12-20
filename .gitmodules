@@ -1,3 +1,6 @@
 [submodule "calendar-card"]
 	path = calendar-card
 	url = https://github.com/ljmerza/calendar-card.git
+[submodule "waze-card"]
+	path = waze-card
+	url = https://github.com/ljmerza/waze-card.git
