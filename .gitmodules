@@ -1,0 +1,3 @@
+[submodule "calendar-card"]
+	path = calendar-card
+	url = https://github.com/ljmerza/calendar-card.git
