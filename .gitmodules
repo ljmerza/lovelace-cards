@@ -4,3 +4,6 @@
 [submodule "waze-card"]
 	path = waze-card
 	url = https://github.com/ljmerza/waze-card.git
+[submodule "lovelace-card-boilerplate"]
+	path = lovelace-card-boilerplate
+	url = https://github.com/ljmerza/lovelace-card-boilerplate.git
