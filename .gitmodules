@@ -7,3 +7,6 @@
 [submodule "lovelace-card-boilerplate"]
 	path = lovelace-card-boilerplate
 	url = https://github.com/ljmerza/lovelace-card-boilerplate.git
+[submodule "mqtt-led-strip-card"]
+	path = mqtt-led-strip-card
+	url = git@github.com:ljmerza/mqtt-led-strip-card.git
