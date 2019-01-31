@@ -10,3 +10,6 @@
 [submodule "mqtt-led-strip-card"]
 	path = mqtt-led-strip-card
 	url = git@github.com:ljmerza/mqtt-led-strip-card.git
+[submodule "fitbit-card"]
+	path = fitbit-card
+	url = git@github.com:ljmerza/fitbit-card.git
