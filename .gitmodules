@@ -13,3 +13,6 @@
 [submodule "fitbit-card"]
 	path = fitbit-card
 	url = git@github.com:ljmerza/fitbit-card.git
+[submodule "light-entity-card"]
+	path = light-entity-card
+	url = git@github.com:ljmerza/light-entity-card.git
