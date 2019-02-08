@@ -16,3 +16,6 @@
 [submodule "light-entity-card"]
 	path = light-entity-card
 	url = git@github.com:ljmerza/light-entity-card.git
+[submodule "github-card"]
+	path = github-card
+	url = git@github.com:ljmerza/github-card.git
