@@ -19,3 +19,6 @@
 [submodule "github-card"]
 	path = github-card
 	url = git@github.com:ljmerza/github-card.git
+[submodule "reddit-card"]
+	path = reddit-card
+	url = git@github.com:ljmerza/reddit-card.git
